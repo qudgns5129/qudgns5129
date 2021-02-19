@@ -45,14 +45,7 @@
 </p>
 <br>
 <br>
-<h3 align="center">  </h3>
-
-<br>
-<br>
-<br>
-<br>
-<br>
-
+<h3 align="center"> Stats </h3>
 
 ![Byeonghun's GitHub stats](https://github-readme-stats.vercel.app/api/?username=qudgns5129&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qudgns5129&hide=TSQL,TeX,Shell&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
