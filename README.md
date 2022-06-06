@@ -27,8 +27,6 @@
   <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=RStudio&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Visual&nbsp;Studio-5C2D91?style=flat-square&logo=Visual&nbsp;Studio&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Spyder&nbsp;IDE-FF0000?style=flat-square&logo=Spyder&nbsp;IDE&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Atom-66595C?style=flat-square&logo=Atom&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></a>
   <br>
